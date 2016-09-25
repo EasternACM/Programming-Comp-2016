@@ -1,5 +1,5 @@
 
-pre = "data/secret/"
+pre = "../data/secret/"
 post = '.in'
 def bottle_up(fname, num):
 	with open(fname) as r:
